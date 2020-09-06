@@ -4,6 +4,3 @@
 /lib
 /node_modules
 /umd
-npm-debug.log*
-.DS_Store
-.netlify
